@@ -1,0 +1,13 @@
+.title {
+  text-decoration: none;
+  color: black;
+}
+
+.movie_box {
+  display: flex;
+  margin: 10px;
+  background-color: aquamarine;
+}
+
+.movie_box_description {
+}
