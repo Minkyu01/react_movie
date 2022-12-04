@@ -6,8 +6,25 @@
 .movie_box {
   display: flex;
   margin: 10px;
-  background-color: aquamarine;
+  background-color: #edcdbb;
+  display: flex;
+  width: 45%;
+  height: 360px;
+  border-radius: 10px;
+  justify-content: space-between;
+  align-items: flex-start;
+  position: relative;
+}
+
+.movie_box img {
+  display: block;
+  width: 30%;
+  height: 150px;
+  border-radius: 10px;
+  position: relative;
+  top: -50px;
 }
 
 .movie_box_description {
+  width: 65%;
 }

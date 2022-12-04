@@ -1,0 +1,9 @@
+.movieList {
+  flex-wrap: wrap;
+  display: flex;
+  padding: 50px;
+  padding-top: 70px;
+}
+
+.container {
+}
